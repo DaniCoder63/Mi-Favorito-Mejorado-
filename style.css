@@ -1,0 +1,30 @@
+body
+{
+  text-align: center;
+  background: linear-gradient (#E1BEE7 0%, #90CAF9 100%);
+  background-repeat: no-repeat;
+}
+h1{
+  text-shadow: 2px 2px #F8BBD0;
+  font-size: 50px;
+}
+#bio{
+  padding:20px;
+    font-size:18;
+  text-align:center;
+}
+img
+{
+  border-radius:65%;
+  width:200px
+}
+li {display:block;
+    color:white;}
+.line{height: 6px;
+width: 200px;
+background-color: aquamarine;
+margin: 8px auto;}
+.my_nav_bar { position: sticky;
+    top:0; 
+    z-index:99999 }
+input{background: gray}
